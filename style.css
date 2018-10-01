@@ -1,0 +1,66 @@
+@charset "UTF-8";
+body
+{
+	background: url(bacground.png); 
+	width=100%; 
+	background-position: center; 
+}
+#long-logo_div
+{
+	height: 128px;
+	background-image: url(logo.png);
+}
+#long-logo_div1
+{
+	height: 128px;
+	background-image: url(logo.png);
+	margin-top: 794px;
+}
+
+#thegreatdiv
+{
+	height:1050px;
+}
+#div_withcontacts
+{
+	height:100px;
+	background-color:black;
+	padding:40px;
+}
+#nav_division {
+	width: 150px;
+	height:40px;
+	float:left;
+	margin-top:30px;
+	margin-left: 20 px;
+	border-radius: 20px;
+	background-color :#4682B4;
+	padding-top: 5px;
+	text-align: center;
+}
+#another_division
+{
+	width: 200px;   
+	background: blue; 
+	padding: 5px;  
+	border: solid 1px black
+}
+
+a{
+	text-decoration:none;
+	font-color: red;
+	font-size : 10 px;
+	
+}
+#top_division
+{
+	background-color: black;
+	width:100%;
+	height:150px;
+	border-radius: 20px;
+}
+table
+{
+	width: 150px;
+	border: 1px solid black;
+}
